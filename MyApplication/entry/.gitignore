@@ -1,2 +1,5 @@
 /build
-/node_modules
+/.gradle
+.idea
+/.idea
+app.iml
