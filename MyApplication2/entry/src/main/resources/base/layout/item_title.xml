@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Text xmlns:ohos="http://schemas.huawei.com/res/ohos"
+      ohos:id="$+id:city_item"
+      ohos:height="match_content"
+      ohos:width="match_content"
+      ohos:text_size="12vp"
+      ohos:text_color="#3fffff"
+      ohos:padding="6vp"
+      ohos:margin="2vp"
+      ohos:background_element="#70000000"/>
