@@ -1,0 +1,17 @@
+
+q	java:S116"\Rename this field "temperature_1Text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å­ÿ•
+m	java:S116"XRename this field "weather_1Text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å­ÿ•
+j	java:S116"URename this field "tips_1Text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å­ÿ•
+s	java:S116 "YRename this field "weatherImage_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ŠÖúþÿÿÿÿ
+^
+java:S1659"HDeclare "weatherText" and all following declarations on a separate line.(å­ÿ•
+G
+java:S1659 ",Declare "weatherImage_1" on a separate line.(£ŠÖúþÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(Š×¯ûúÿÿÿÿ
+Q	java:S125g"<This block of commented-out lines of code should be removed.(øáå‚
+V	java:S125u"<This block of commented-out lines of code should be removed.(Š×¯ûúÿÿÿÿ
+Q	java:S125|"<This block of commented-out lines of code should be removed.(øáå‚
+F
+java:S1068"+Remove this unused "mLayout" private field.(¸·§Ïüÿÿÿÿ
+f
+java:S1192_"KDefine a constant instead of duplicating this literal "WeatherApp" 4 times.(êÈ‡Êûÿÿÿÿ

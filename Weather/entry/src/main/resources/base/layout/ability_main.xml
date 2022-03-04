@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:id="$+id:root"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:alignment="horizontal_center"
+    ohos:orientation="vertical"
+    ohos:padding="32">
+
+    <DirectionalLayout
+        ohos:height="match_content"
+        ohos:width="match_parent"
+        ohos:alignment="horizontal_center"
+        ohos:orientation="horizontal">
+
+        <Image
+            ohos:id="$+id:weather_icon"
+            ohos:height="60vp"
+            ohos:width="60vp"
+            ohos:image_src="$media:sunshine"
+            ohos:padding="5vp"
+            ohos:scale_mode="inside"
+            />
+
+        <Text
+            ohos:id="$+id:weather"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:right_margin="10vp"
+            ohos:text="1保留"
+            ohos:text_color="#FF000000"
+            ohos:text_size="12fp"
+            />
+
+        <Text
+            ohos:id="$+id:temperature"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:text="1保留"
+            ohos:text_color="#FF000000"
+            ohos:text_size="20fp"
+            ohos:top_padding="8vp"
+            />
+    </DirectionalLayout>
+
+    <Text
+        ohos:id="$+id:tips"
+        ohos:height="match_content"
+        ohos:width="match_content"
+        ohos:layout_alignment="horizontal_center"
+        ohos:left_margin="10vp"
+        ohos:right_margin="10vp"
+        ohos:text="1保留"
+        ohos:text_color="#FF3A6B53"
+        ohos:text_size="12vp"
+        />
+
+    <DirectionalLayout
+        ohos:height="match_content"
+        ohos:width="match_parent"
+        ohos:alignment="horizontal_center"
+        ohos:orientation="horizontal">
+
+        <Image
+            ohos:id="$+id:weather_icon_1"
+            ohos:height="60vp"
+            ohos:width="60vp"
+            ohos:image_src="$media:sunshine"
+            ohos:padding="5vp"
+            ohos:scale_mode="inside"
+            />
+
+        <Text
+            ohos:id="$+id:weather_1"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:right_margin="10vp"
+            ohos:text="2保留"
+            ohos:text_color="#FF000000"
+            ohos:text_size="12fp"
+            />
+
+        <Text
+            ohos:id="$+id:temperature_1"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:text="2保留"
+            ohos:text_color="#FF000000"
+            ohos:text_size="20fp"
+            ohos:top_padding="8vp"
+            />
+    </DirectionalLayout>
+
+    <Text
+        ohos:id="$+id:tips_1"
+        ohos:height="match_content"
+        ohos:width="match_content"
+        ohos:layout_alignment="horizontal_center"
+        ohos:left_margin="10vp"
+        ohos:right_margin="10vp"
+        ohos:text="2保留"
+        ohos:text_color="#FF3A6B53"
+        ohos:text_size="12vp"
+        />
+
+    <ListContainer
+        ohos:id="$+id:list"
+        ohos:height="match_parent"
+        ohos:width="match_parent"
+        ohos:top_margin="20vp"
+        />
+
+</DirectionalLayout>

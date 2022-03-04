@@ -1,0 +1,9 @@
+
+Q
+java:S1874";Remove this use of "RecycleItemProvider"; it is deprecated.(ø‹¿
+c	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄ‰š
+‚
+java:S1319!"gThe type of "cityMos" should be an interface such as "List" rather than the implementation "ArrayList".(­É¯íûÿÿÿÿ
+k	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ô€ğÿÿÿÿÿ
+C
+java:S1604M"(Make this anonymous inner class a lambda(ëÏ“éÿÿÿÿÿ

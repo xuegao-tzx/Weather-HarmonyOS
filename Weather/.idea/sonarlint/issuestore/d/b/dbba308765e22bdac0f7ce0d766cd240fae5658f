@@ -1,0 +1,7 @@
+
+‚
+java:S1319"gThe type of "cityMos" should be an interface such as "List" rather than the implementation "ArrayList".(É£Ýóøÿÿÿÿ
+‚
+java:S1319"gThe type of "cityMos" should be an interface such as "List" rather than the implementation "ArrayList".(ÀÎ°Êýÿÿÿÿ
+n
+java:S1104"SMake cityMos a static final constant or non-public and provide accessors if needed.(É£Ýóøÿÿÿÿ
